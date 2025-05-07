@@ -1,3 +1,11 @@
+"""
+Medical Chatbot
+Developed by Phạm Lê Ngọc Sơn
+
+AI-driven conversational agent designed to interact with users, providing medical information, 
+advice, and support through natural language processing (NLP).
+"""
+
 import json
 import torch
 import nltk
